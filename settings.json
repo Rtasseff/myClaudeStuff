@@ -1,8 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(./venv/bin/*:*)"
-      "Bash(source:*)"
+      "Bash(./venv/bin/*:*)",
+      "Bash(source:*)",
       "Read",
       "Edit",
       "MultiEdit",
